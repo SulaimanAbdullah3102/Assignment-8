@@ -1,0 +1,233 @@
+[
+    {
+        "product_id": "13",
+        "product_title": "Apple iPhone SE",
+        "product_image": "https://i.ibb.co/1QqCmgF/Apple-i-Phone-SE.jpg",
+        "category": "iPhone",
+        "price": 499,
+        "description": "Compact iPhone SE with A15 Bionic chip, ideal for one-handed use.",
+        "specification": ["64GB storage", "4.7-inch display", "12MP camera", "5G support", "iOS 16"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "7",
+        "product_title": "Apple MacBook Pro M2",
+        "product_image": "https://i.ibb.co/xhVmk1P/Apple-Mac-Book-Pro-M2.jpg",
+        "category": "MacBook",
+        "price": 1499,
+        "description": "MacBook Pro with M2 chip for enhanced speed and graphics.",
+        "specification": ["512GB SSD", "13.3-inch Retina display", "8GB RAM", "M2 chip", "macOS"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "4",
+        "product_title": "Xiaomi 13 Pro",
+        "product_image": "https://i.ibb.co/QbhJ6gH/Xiaomi-13-Pro-featured-image-packshot-review-Recovered.jpg",
+        "category": "Phone",
+        "price": 749,
+        "description": "Xiaomi 13 Pro with Leica cameras and Snapdragon 8 Gen processor.",
+        "specification": ["256GB storage", "6.7-inch display", "50MP camera", "5G support", "Android 13"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "15",
+        "product_title": "Apple iPhone 13",
+        "product_image": "https://i.ibb.co/8MvH3F0/Apple-i-Phone-13.jpg",
+        "category": "iPhone",
+        "price": 699,
+        "description": "Affordable iPhone 13 with excellent performance and camera quality.",
+        "specification": ["128GB storage", "6.1-inch display", "12MP camera", "5G support", "iOS 15"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "11",
+        "product_title": "Lenovo ThinkPad X1 Carbon",
+        "product_image": "https://i.ibb.co/r3cCm5N/Lenovo-Think-Pad-X1-Carbon.jpg",
+        "category": "Laptop",
+        "price": 1399,
+        "description": "ThinkPad X1 Carbon with durable design and powerful performance.",
+        "specification": ["512GB SSD", "14-inch display", "16GB RAM", "Intel Core i7", "Windows 11"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "18",
+        "product_title": "Sony WH-1000XM4",
+        "product_image": "https://i.ibb.co/DrX8k1t/Sony-WH-1000-XM4.jpg",
+        "category": "Accessories",
+        "price": 349,
+        "description": "Sony noise-canceling headphones with exceptional sound quality.",
+        "specification": ["Bluetooth 5.0", "Active noise canceling", "30-hour battery life"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "19",
+        "product_title": "Apple AirPods Pro",
+        "product_image": "https://i.ibb.co/6b0sNqT/Apple-Air-Pods-Pro.jpg",
+        "category": "Accessories",
+        "price": 249,
+        "description": "Apple AirPods Pro with active noise cancellation and spatial audio.",
+        "specification": ["Bluetooth 5.0", "Active noise canceling", "24-hour battery with case"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "2",
+        "product_title": "OnePlus 11",
+        "product_image": "https://i.ibb.co/GkDv0w6/One-Plus-11.jpg",
+        "category": "Phone",
+        "price": 699,
+        "description": "OnePlus 11 with Snapdragon processor and 80W fast charging.",
+        "specification": ["128GB storage", "6.7-inch display", "48MP camera", "5G support", "Android 13"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "5",
+        "product_title": "Asus ROG Phone 6",
+        "product_image": "https://i.ibb.co/y0NBby8/asus-rog-phone6-pro-01.jpg",
+        "category": "Phone",
+        "price": 999,
+        "description": "Asus ROG Phone 6 for gamers with advanced cooling system.",
+        "specification": ["256GB storage", "6.78-inch display", "64MP camera", "5G support", "Android 12"],
+        "availability": false,
+        "rating": 4.7
+    },
+    {
+        "product_id": "6",
+        "product_title": "Apple MacBook Pro M1",
+        "product_image": "https://i.ibb.co/tcvmcMc/Apple-Mac-Book-Pro-M1.jpg",
+        "category": "MacBook",
+        "price": 1299,
+        "description": "MacBook Pro with M1 chip for professional performance.",
+        "specification": ["256GB SSD", "13.3-inch Retina display", "8GB RAM", "M1 chip", "macOS"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "10",
+        "product_title": "Dell XPS 15",
+        "product_image": "https://i.ibb.co/pKqvWRq/Dell-XPS-15.jpg",
+        "category": "Laptop",
+        "price": 1499,
+        "description": "Dell XPS 15 with stunning 4K display and powerful processor.",
+        "specification": ["512GB SSD", "15.6-inch 4K display", "16GB RAM", "Intel Core i7", "Windows 11"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "1",
+        "product_title": "Samsung Galaxy S23",
+        "product_image": "https://i.ibb.co/NTR252q/Samsung-S23-Plus.jpg",
+        "category": "Phone",
+        "price": 899,
+        "description": "Samsung Galaxy S23 with powerful camera and fast processor.",
+        "specification": ["128GB storage", "6.1-inch display", "50MP camera", "5G support", "Android 13"],
+        "availability": true,
+        "rating": 4.6
+    },
+    {
+        "product_id": "17",
+        "product_title": "Apple iPhone 14 Pro Max",
+        "product_image": "https://i.ibb.co/KbNfZ7t/Apple-i-Phone-14-Pro-Max.jpg",
+        "category": "iPhone",
+        "price": 1099,
+        "description": "iPhone 14 Pro Max with larger display and advanced camera.",
+        "specification": ["256GB storage", "6.7-inch display", "48MP camera", "5G support", "iOS 16"],
+        "availability": false,
+        "rating": 4.8
+    },
+    {
+        "product_id": "12",
+        "product_title": "HP Spectre x360",
+        "product_image": "https://i.ibb.co/Vt4TNsW/HP-Spectre-x360.jpg",
+        "category": "Laptop",
+        "price": 1199,
+        "description": "HP Spectre x360 with a beautiful 4K touch display and fast performance.",
+        "specification": ["512GB SSD", "13.5-inch 4K display", "16GB RAM", "Intel Core i7", "Windows 11"],
+        "availability": false,
+        "rating": 4.7
+    },
+    {
+        "product_id": "3",
+        "product_title": "Google Pixel 7",
+        "product_image": "https://i.ibb.co/3BHjZk9/Google-Pixel-7-Used-Price-in-Bangladesh.jpg",
+        "category": "Phone",
+        "price": 599,
+        "description": "Google Pixel 7 with high-quality AI camera and clean Android experience.",
+        "specification": ["128GB storage", "6.3-inch display", "50MP camera", "5G support", "Android 13"],
+        "availability": true,
+        "rating": 4.4
+    },
+    {
+        "product_id": "14",
+        "product_title": "Apple iPhone 14",
+        "product_image": "https://i.ibb.co/cC3DJ4B/Apple-i-Phone-14.jpg",
+        "category": "iPhone",
+        "price": 799,
+        "description": "iPhone 14 with improved battery life and camera performance.",
+        "specification": ["128GB storage", "6.1-inch display", "12MP camera", "5G support", "iOS 16"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "9",
+        "product_title": "Acer Swift 3",
+        "product_image": "https://i.ibb.co/LPQ7rVJ/Acer-Swift-3.jpg",
+        "category": "Laptop",
+        "price": 699,
+        "description": "Acer Swift 3 lightweight laptop with excellent battery life.",
+        "specification": ["256GB SSD", "14-inch display", "8GB RAM", "Intel Core i5", "Windows 11"],
+        "availability": true,
+        "rating": 4.5
+    },
+    {
+        "product_id": "8",
+        "product_title": "Apple MacBook Air M1",
+        "product_image": "https://i.ibb.co/VTX49d5/Apple-Mac-Book-Air-M1.jpg",
+        "category": "MacBook",
+        "price": 999,
+        "description": "MacBook Air with M1 chip, ultra-thin design, and great performance.",
+        "specification": ["256GB SSD", "13.3-inch Retina display", "8GB RAM", "M1 chip", "macOS"],
+        "availability": true,
+        "rating": 4.7
+    },
+    {
+        "product_id": "16",
+        "product_title": "Apple iPhone 14 Pro",
+        "product_image": "https://i.ibb.co/KbNfZ7t/Apple-i-Phone-14-Pro-Max.jpg",
+        "category": "iPhone",
+        "price": 999,
+        "description": "Powerful iPhone 14 Pro with advanced features and stunning display.",
+        "specification": ["128GB storage", "6.1-inch display", "48MP camera", "5G support", "iOS 16"],
+        "availability": true,
+        "rating": 4.9
+    },
+    {
+        "product_id": "20",
+        "product_title": "Logitech MX Master 3",
+        "product_image": "https://i.ibb.co/JBQsXRR/Logitech-MX-Master-3.jpg",
+        "category": "Accessories",
+        "price": 99,
+        "description": "Ergonomic Logitech mouse designed for productivity and precision.",
+        "specification": ["Bluetooth", "USB-C charging", "Up to 70-day battery life"],
+        "availability": true,
+        "rating": 4.8
+    },
+    {
+        "product_id": "21",
+        "product_title": "Anker PowerCore 10000",
+        "product_image": "https://i.ibb.co/gTw4pZs/Anker-Power-Core-10000.jpg",
+        "category": "Accessories",
+        "price": 55,
+        "description": "Portable charger with high capacity to keep devices powered on-the-go.",
+        "specification": ["10000mAh capacity", "Compact design", "Fast charging"],
+        "availability": true,
+        "rating": 4.5
+    }
+]

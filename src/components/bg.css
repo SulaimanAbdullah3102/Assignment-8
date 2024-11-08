@@ -1,0 +1,14 @@
+.bg {
+    background-image: linear-gradient(to bottom, rgb(149, 56, 226) 0%, rgb(149, 56, 226)70%, white 70%, white 100%);
+    ;
+}
+
+.bgD {
+    background-image: linear-gradient(to bottom, rgb(149, 56, 226) 0%, rgb(149, 56, 226)50%, white 50%, white 100%);
+    ;
+}
+
+.bgDash {
+    background-image: linear-gradient(to bottom, rgb(149, 56, 226) 0%, rgb(149, 56, 226)50%, rgb(212, 210, 210) 50%, rgb(212, 210, 210) 100%);
+    ;
+}

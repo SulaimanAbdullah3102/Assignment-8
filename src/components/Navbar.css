@@ -1,0 +1,10 @@
+.link {
+    background-color: white;
+    color: rgba(11, 11, 11, 0.7);
+
+}
+
+.active-link{
+    background-color: rgb(149, 56, 226);
+    color: white;
+}
